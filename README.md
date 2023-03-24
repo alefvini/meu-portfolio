@@ -1,4 +1,3 @@
 # meu-portfolio
 
-![meu-port](https://user-images.githubusercontent.com/116196987/224737619-16047523-169a-4b14-a06a-a55b9c17e110.png)
-
+![meuport-atualizado](https://user-images.githubusercontent.com/116196987/227619762-5d9ff5df-6793-4485-bbc4-898a82e97011.png)
